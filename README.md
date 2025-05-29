@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **ML, , Deep Learning, Computer Vision**
 
-- 📫 How to reach me **ghaith.mechi@etudiant-enit.utm.tn**
+- 📫 How to reach me **ghaith.mechi@ept.ucar.tn**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
