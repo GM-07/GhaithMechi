@@ -29,7 +29,23 @@ Public standing on Kaggle, October 2026: **Datasets Master**, **Notebooks Legacy
 
 Seventeen public notebooks. Eight public datasets.
 
-## Selected work
+## DataCamp
+
+In 2024 DataCamp placed the account in the **top 1%**, with **81,990 XP** and a longest learning streak of **8 days**.
+
+![Skill levels](assets/skills.svg)
+
+Same layout as a DataCamp skill profile: one level and one bar per skill. **Advanced** means a finished course in that skill or a public Kaggle body of work. **Intermediate** means a finished course, or public work that is still early. The live per-skill XP stays inside the DataCamp account.
+
+### Best courses
+
+| Course | Finished | What it added |
+| --- | --- | --- |
+| [Python Developer](https://www.linkedin.com/posts/ghaith-mechi_ghaith-mechis-statement-of-accomplishment-activity-7176562427159797761-wA8d) | March 2024 | NumPy, pandas, Matplotlib, packages, and object-oriented Python |
+| [Fraud Detection in Python](https://www.linkedin.com/posts/ghaith-mechi_ghaith-mechis-statement-of-accomplishment-activity-7087427432399462400-Nhtl) | July 2023 | Supervised and unsupervised detection, imbalanced classes, scikit-learn |
+| [MLOps Concepts](https://www.linkedin.com/posts/ghaith-mechi_ghaith-mechis-statement-of-accomplishment-activity-7105193472277557250-B31R) | September 2023 | How a model moves from a notebook toward production |
+
+## Best Kaggle projects
 
 The pieces below are the ones worth opening. Tutorial forks and one-off files stay off this page.
 
@@ -63,11 +79,7 @@ The pieces below are the ones worth opening. Tutorial forks and one-off files st
 
 ## Practice
 
-Computer vision with OpenCV, YOLOv8, and PyTorch. Classical ML with scikit-learn and gradient boosting. Text with sentiment models and stylometry. Data collection with Python scrapers, then pandas. Delivery with Flask, SQL (MySQL, SQLite, Oracle), and Cassandra.
-
-Python is the working language. The rest of the daily set is NumPy, pandas, Matplotlib, Seaborn, TensorFlow, Git, and Linux.
-
-DataCamp **Python Developer**, completed 2024: NumPy, pandas, Matplotlib, packages, and object-oriented Python.
+Day-to-day stack around the skills above: Python, NumPy, pandas, Matplotlib, Seaborn, scikit-learn, PyTorch, TensorFlow, OpenCV, YOLOv8, Flask, SQL (MySQL, SQLite, Oracle), Cassandra, Git, and Linux.
 
 ## Academic path
 
