@@ -4,6 +4,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ghaith-mechi)
 [![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/ghaithmechi)
+[![HackerRank](https://img.shields.io/badge/-HackerRank-00EA64?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/mechi_ghaith07)
 [![Email](https://img.shields.io/badge/-Email-444?style=flat-square&logo=gmail&logoColor=white)](mailto:ghaith.mechi@ept.ucar.tn)
 
 Computer vision, deep learning, and NLP, with a current competition entry on LLM-written text. The proof is public reuse, not a self-score.
@@ -58,4 +59,4 @@ Preparatory classes in mathematics and physics at IPEIS, Sfax, after a mathemati
 
 ---
 
-[ghaith.mechi@ept.ucar.tn](mailto:ghaith.mechi@ept.ucar.tn) · [Kaggle](https://www.kaggle.com/ghaithmechi) · [LinkedIn](https://www.linkedin.com/in/ghaith-mechi)
+[ghaith.mechi@ept.ucar.tn](mailto:ghaith.mechi@ept.ucar.tn) · [Kaggle](https://www.kaggle.com/ghaithmechi) · [HackerRank](https://www.hackerrank.com/profile/mechi_ghaith07) · [LinkedIn](https://www.linkedin.com/in/ghaith-mechi)
