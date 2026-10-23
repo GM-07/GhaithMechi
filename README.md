@@ -71,7 +71,24 @@ Also worth opening: [Amazon review sentiment](https://www.kaggle.com/code/ghaith
 
 ![Public record and skill levels](assets/dashboard.svg)
 
-Courses behind the DataCamp card: [Python Developer](https://www.linkedin.com/posts/ghaith-mechi_ghaith-mechis-statement-of-accomplishment-activity-7176562427159797761-wA8d) (March 2024), [Fraud Detection in Python](https://www.linkedin.com/posts/ghaith-mechi_ghaith-mechis-statement-of-accomplishment-activity-7087427432399462400-Nhtl) (July 2023), [MLOps Concepts](https://www.linkedin.com/posts/ghaith-mechi_ghaith-mechis-statement-of-accomplishment-activity-7105193472277557250-B31R) (September 2023).
+## DataCamp skills
+
+![Python](https://img.shields.io/badge/Python-03EF62?style=for-the-badge&logo=python&logoColor=05192D)
+![NumPy](https://img.shields.io/badge/NumPy-03EF62?style=for-the-badge&logo=numpy&logoColor=05192D)
+![pandas](https://img.shields.io/badge/pandas-03EF62?style=for-the-badge&logo=pandas&logoColor=05192D)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-03EF62?style=for-the-badge&logoColor=05192D)
+![Object--oriented Python](https://img.shields.io/badge/Object--oriented%20Python-03EF62?style=for-the-badge&logoColor=05192D)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-03EF62?style=for-the-badge&logo=scikitlearn&logoColor=05192D)
+![Supervised learning](https://img.shields.io/badge/Supervised%20learning-03EF62?style=for-the-badge&logoColor=05192D)
+![Unsupervised learning](https://img.shields.io/badge/Unsupervised%20learning-03EF62?style=for-the-badge&logoColor=05192D)
+![Imbalanced classification](https://img.shields.io/badge/Imbalanced%20classification-03EF62?style=for-the-badge&logoColor=05192D)
+![MLOps](https://img.shields.io/badge/MLOps-03EF62?style=for-the-badge&logoColor=05192D)
+
+| Skill | Course |
+| --- | --- |
+| Python, NumPy, pandas, Matplotlib, packages, object-oriented Python | [Python Developer](https://www.linkedin.com/posts/ghaith-mechi_ghaith-mechis-statement-of-accomplishment-activity-7176562427159797761-wA8d), March 2024 |
+| Supervised learning, unsupervised learning, imbalanced classes, scikit-learn | [Fraud Detection in Python](https://www.linkedin.com/posts/ghaith-mechi_ghaith-mechis-statement-of-accomplishment-activity-7087427432399462400-Nhtl), July 2023 |
+| MLOps | [MLOps Concepts](https://www.linkedin.com/posts/ghaith-mechi_ghaith-mechis-statement-of-accomplishment-activity-7105193472277557250-B31R), September 2023 |
 
 ---
 
