@@ -1,27 +1,81 @@
-<h1 align="center">Hi 👋, I'm Ghaith Mechi</h1>
-<h3 align="center">AN AI Engineer from Tunisia</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gm-07&label=Profile%20views&color=0e75b6&style=flat" alt="gm-07" /> </p>
-
-- 🌱 I’m currently learning **MLOps**
-
-- 💬 Ask me about **ML, , Deep Learning, Computer Vision**
-
-- 📫 How to reach me **ghaith.mechi@ept.ucar.tn**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ghaith-mechi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ghaith-mechi" height="30" width="40" /></a>
-<a href="https://kaggle.com/ghaithmechi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ghaithmechi" height="30" width="40" /></a>
-<a href="https://www.facebook.com/profile.php?id=100090633182802" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ghaith mechi" height="30" width="40" /></a>
+<p align="center">
+  <img src="assets/IMG_20230218_091441.jpg" width="148" alt="Ghaith Mechi" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<h1 align="center">Ghaith Mechi</h1>
+<p align="center">
+  <strong>Data scientist and AI developer</strong><br>
+  Computer vision, language, and the datasets behind them · Tunis
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gm-07&show_icons=true&locale=en&layout=compact" alt="gm-07" /></p>
+<p align="center">
+  <a href="https://www.kaggle.com/ghaithmechi">Kaggle</a> ·
+  <a href="https://www.linkedin.com/in/ghaith-mechi">LinkedIn</a> ·
+  <a href="https://medium.com/@mechi.ghaith07">Medium</a> ·
+  <a href="mailto:ghaith.mechi@ept.ucar.tn">ghaith.mechi@ept.ucar.tn</a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gm-07&show_icons=true&locale=en" alt="gm-07" /></p>
+Industrial engineer by training, applied machine learning in practice. I take a problem through collection, modeling, and a result someone else can reuse: a notebook, a dataset, or a vision pipeline.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gm-07&" alt="gm-07" /></p>
+Public standing on Kaggle, October 2026: **Datasets Master**, **Notebooks Legacy Master**, and **Discussions Legacy Expert**. Notebooks have **882 upvotes** and **556 forks**. Datasets reached a best rank of **108**.
+
+## Standing
+
+| Track | Tier | Medals | Rank | Best rank |
+| --- | --- | --- | --- | --- |
+| Datasets | Master | 2 gold, 5 silver | 454 / 12,092 | 108 |
+| Notebooks | Legacy Master | 1 gold, 3 silver, 7 bronze | 1,882 / 59,494 | 279 |
+| Discussions | Legacy Expert | Top 100, reached | 343 posts | — |
+
+Seventeen public notebooks. Eight public datasets.
+
+## Selected work
+
+The pieces below are the ones worth opening. Tutorial forks and one-off files stay off this page.
+
+### Computer vision
+
+| Work | What it is | Signal |
+| --- | --- | --- |
+| [Optical character recognition](https://www.kaggle.com/code/ghaithmechi/optical-caracter-recognition-ocr) | OCR pipeline in Python | 139 upvotes |
+| [Face detection with YOLOv8](https://www.kaggle.com/code/ghaithmechi/face-detection-using-yolov8) | Detection on GPU, Apache 2.0 | 93 upvotes |
+| [Image processing with OpenCV](https://www.kaggle.com/code/ghaithmechi/image-processing-with-opencv-and-python) | Classical vision, from pixels to features | 73 upvotes |
+| [Card classification with PyTorch](https://www.kaggle.com/code/ghaithmechi/card-classification-with-pytorch) | Image classification in PyTorch | Recent |
+
+### Language
+
+| Work | What it is | Signal |
+| --- | --- | --- |
+| [Sentiment analysis on Amazon reviews](https://www.kaggle.com/code/ghaithmechi/sentiment-analysis-on-amazon-reviews) | Text classification on real reviews | 68 upvotes |
+| [Name That LLM](https://www.kaggle.com/code/ghaithmechi/name-that-llm-enhanced-classical-pipeline-cpu) | Stylometry competition entry: classical features, CPU pipeline | Active, 2026 |
+
+### Data products
+
+| Work | What it is | Signal |
+| --- | --- | --- |
+| [Premier League scraper](https://www.kaggle.com/code/ghaithmechi/premier-league-statistics-scraping) and [dataset, 2015–2023](https://www.kaggle.com/datasets/ghaithmechi/premier-league-statistics-from-2015-to-2023) | Collection and a published table | 82 and 70 upvotes |
+| [Web scraping with Python](https://www.kaggle.com/code/ghaithmechi/guide-to-learn-web-scrapping-with-python) | A working guide, not a slide deck | 60 upvotes |
+| [Food prices for nutrition](https://www.kaggle.com/datasets/ghaithmechi/food-prices-for-nutrition) | Country-level nutrition prices | 44 upvotes |
+| [Electric vehicle population, March 2024](https://www.kaggle.com/datasets/ghaithmechi/electric-vehicle-population-data-march-2024) | Fleet registry, about 6 MB | 45 upvotes |
+| [Monthly food-price inflation](https://www.kaggle.com/datasets/ghaithmechi/monthly-food-price-inflation-estimates-by-country) | Inflation estimates by country | 29 upvotes |
+
+[Classification with scikit-learn](https://www.kaggle.com/code/ghaithmechi/classification-with-scikit-learn) sits just under this cut, at 52 upvotes.
+
+## Practice
+
+Computer vision with OpenCV, YOLOv8, and PyTorch. Classical ML with scikit-learn and gradient boosting. Text with sentiment models and stylometry. Data collection with Python scrapers, then pandas. Delivery with Flask, SQL (MySQL, SQLite, Oracle), and Cassandra.
+
+Python is the working language. The rest of the daily set is NumPy, pandas, Matplotlib, Seaborn, TensorFlow, Git, and Linux.
+
+DataCamp **Python Developer**, completed 2024: NumPy, pandas, Matplotlib, packages, and object-oriented Python.
+
+## Academic path
+
+| Years | Program | School |
+| --- | --- | --- |
+| 2021–2022 | Master, Traitement des données | École Polytechnique de Tunisie |
+| 2017–2020 | Diplôme d'ingénieur, Génie industriel | École Nationale d'Ingénieurs de Tunis |
+| 2015–2017 | Classes préparatoires, MP | IPEIS, Sfax |
+| 2014–2015 | Baccalauréat, Mathématiques, Mention Bien | Lycée Cité Habib, Sfax |
+
+Next focus: putting models into production, including MLOps.

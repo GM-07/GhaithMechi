@@ -1,5 +1,5 @@
-title: Gaith Mechi
-logo: /assets/Image1.png
-#description: text below image
-show_downloads: true
+title: Ghaith Mechi
+description: Data scientist and AI developer. Computer vision, language, and published datasets.
+logo: assets/IMG_20230218_091441.jpg
+show_downloads: false
 theme: jekyll-theme-minimal
