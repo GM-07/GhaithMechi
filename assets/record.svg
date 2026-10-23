@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="196" viewBox="0 0 920 196" role="img" aria-label="Public record for Ghaith Mechi">
+  <rect width="920" height="196" rx="16" fill="#0C1424"/>
+  <rect x="16" y="16" width="288" height="164" rx="12" fill="#152238"/>
+  <rect x="316" y="16" width="288" height="164" rx="12" fill="#152238"/>
+  <rect x="616" y="16" width="288" height="164" rx="12" fill="#152238"/>
+
+  <text x="36" y="48" fill="#E6C07B" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="1.6">KAGGLE DATASETS</text>
+  <text x="36" y="86" fill="#F4F7FB" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="28" font-weight="700">Master</text>
+  <text x="36" y="116" fill="#F4F7FB" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16">Best rank 108</text>
+  <text x="36" y="148" fill="#93A4B8" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14">2 gold · 5 silver · 288 upvotes</text>
+
+  <text x="336" y="48" fill="#E6C07B" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="1.6">KAGGLE NOTEBOOKS</text>
+  <text x="336" y="86" fill="#F4F7FB" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="28" font-weight="700">Legacy Master</text>
+  <text x="336" y="116" fill="#F4F7FB" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16">882 upvotes · 556 forks</text>
+  <text x="336" y="148" fill="#93A4B8" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14">1 gold · 3 silver · 7 bronze</text>
+
+  <text x="636" y="48" fill="#3DDC97" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="1.6">DATACAMP 2024</text>
+  <text x="636" y="86" fill="#F4F7FB" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="28" font-weight="700">Top 1%</text>
+  <text x="636" y="116" fill="#F4F7FB" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16">81,990 XP</text>
+  <text x="636" y="148" fill="#93A4B8" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14">Longest streak · 8 days</text>
+</svg>
