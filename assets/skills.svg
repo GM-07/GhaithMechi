@@ -54,5 +54,5 @@
   <rect x="250" y="504" width="204" height="10" rx="5" fill="#F5C16C"/>
   <text x="730" y="514" text-anchor="end" fill="#F5C16C" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="700">Intermediate</text>
 
-  <text x="40" y="568" fill="#8FA4B8" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12">Green is Advanced. Amber is Intermediate. Bars follow public courses and Kaggle work.</text>
+  <text x="40" y="568" fill="#8FA4B8" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12">Advanced in green. Intermediate in amber. Set from finished courses and public projects.</text>
 </svg>
