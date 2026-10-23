@@ -104,6 +104,14 @@ Data work still on the profile: [Premier League statistics, 2015–2023](https:/
 | Supervised learning, unsupervised learning, imbalanced classes, scikit-learn | [Fraud Detection in Python](https://www.linkedin.com/posts/ghaith-mechi_ghaith-mechis-statement-of-accomplishment-activity-7087427432399462400-Nhtl), July 2023 |
 | MLOps | [MLOps Concepts](https://www.linkedin.com/posts/ghaith-mechi_ghaith-mechis-statement-of-accomplishment-activity-7105193472277557250-B31R), September 2023 |
 
+## DataCamp certificates
+
+| Certificate | Kind | Completed |
+| --- | --- | --- |
+| [Python Developer](https://www.datacamp.com/tracks/python-developer) | Career track. [Statement of accomplishment](https://www.linkedin.com/posts/ghaith-mechi_ghaith-mechis-statement-of-accomplishment-activity-7176562427159797761-wA8d) | March 2024 |
+| [Fraud Detection in Python](https://www.linkedin.com/posts/ghaith-mechi_ghaith-mechis-statement-of-accomplishment-activity-7087427432399462400-Nhtl) | Course statement of accomplishment | July 2023 |
+| [MLOps Concepts](https://www.linkedin.com/posts/ghaith-mechi_ghaith-mechis-statement-of-accomplishment-activity-7105193472277557250-B31R) | Course statement of accomplishment | September 2023 |
+
 ---
 
 ## Path
