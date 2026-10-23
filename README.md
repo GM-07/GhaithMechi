@@ -1,58 +1,79 @@
-<p align="center">
-  <img src="assets/IMG_20230218_091441.jpg" width="132" alt="Ghaith Mechi" />
-</p>
+### Hi there, I'm Ghaith Mechi
 
-<h1 align="center">Ghaith Mechi</h1>
-<p align="center">
-  <strong>Data scientist and AI developer</strong><br>
-  Computer vision, language, and data products in Python<br>
-  Tunis
-</p>
+[![LinkedIn](https://img.shields.io/badge/-Ghaith%20Mechi-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ghaith-mechi)
+[![Kaggle](https://img.shields.io/badge/-ghaithmechi-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/ghaithmechi)
+[![Email](https://img.shields.io/badge/-ghaith.mechi%40ept.ucar.tn-444?style=flat-square&logo=gmail&logoColor=white)](mailto:ghaith.mechi@ept.ucar.tn)
 
-<p align="center">
-  <a href="https://www.kaggle.com/ghaithmechi"><strong>Kaggle</strong></a> ·
-  <a href="https://www.linkedin.com/in/ghaith-mechi">LinkedIn</a> ·
-  <a href="https://medium.com/@mechi.ghaith07">Medium</a> ·
-  <a href="mailto:ghaith.mechi@ept.ucar.tn">ghaith.mechi@ept.ucar.tn</a>
-</p>
+![](https://komarev.com/ghpvc/?username=GM-07&color=blue)
 
-I take a problem through collection, modeling, and a public artifact someone else can run. The work that traveled is in vision and text: detection, OCR, sentiment, and the datasets behind them.
+---
 
-<p align="center">
-  <img src="assets/record.svg" alt="Datasets Master, best rank 108. Notebooks Legacy Master, 882 upvotes and 556 forks. DataCamp 2024, top 1 percent, 81,990 XP." />
-</p>
+## About Me
 
-<p align="center">
-  Discussions Legacy Expert · once top 100 · 343 posts<br>
-  <a href="https://www.kaggle.com/ghaithmechi">Full Kaggle profile</a>
-</p>
+Data scientist and AI developer in Tunis. I build **computer-vision pipelines, text models, and datasets other people run**.
 
-## Selected work
+Public record:
+- **Kaggle Datasets Master**, best rank **108**
+- **Notebooks Legacy Master**, **882** upvotes and **556** forks
+- **DataCamp top 1%** in 2024, **81,990 XP**
 
-The notebooks and datasets below are the ones with real reuse. Tutorial forks stay off this page.
+I work from collection through a model someone else can open: detection, OCR, sentiment, and the tables behind them.
 
-| Work | What it shows |
-| --- | --- |
-| [Face detection with YOLOv8](https://www.kaggle.com/code/ghaithmechi/face-detection-using-yolov8) | A modern detector, trained and run on GPU, released under Apache 2.0. 93 upvotes. |
-| [Optical character recognition](https://www.kaggle.com/code/ghaithmechi/optical-caracter-recognition-ocr) | Text recovered from images, end to end in Python. 139 upvotes, the most-used notebook. |
-| [Card classification in PyTorch](https://www.kaggle.com/code/ghaithmechi/card-classification-with-pytorch) | Image classification with a current deep-learning stack. |
-| [Amazon review sentiment](https://www.kaggle.com/code/ghaithmechi/sentiment-analysis-on-amazon-reviews) | Text classification on real customer reviews. 68 upvotes. |
-| [Name That LLM](https://www.kaggle.com/code/ghaithmechi/name-that-llm-enhanced-classical-pipeline-cpu) | Live 2026 competition entry: stylometry and classical features, scored on CPU. |
-| [Premier League, 2015–2023](https://www.kaggle.com/datasets/ghaithmechi/premier-league-statistics-from-2015-to-2023) | Scraped, cleaned, and published. [Notebook](https://www.kaggle.com/code/ghaithmechi/premier-league-statistics-scraping), 82 upvotes. Dataset, 70 upvotes. |
-| [OpenCV image processing](https://www.kaggle.com/code/ghaithmechi/image-processing-with-opencv-and-python) | The classical vision layer under the deep models. 73 upvotes. |
-| [Web scraping with Python](https://www.kaggle.com/code/ghaithmechi/guide-to-learn-web-scrapping-with-python) | A guide other people run. 60 upvotes. |
+---
 
-Also published, and worth opening after the table: [electric-vehicle population](https://www.kaggle.com/datasets/ghaithmechi/electric-vehicle-population-data-march-2024) (45 upvotes), [food prices for nutrition](https://www.kaggle.com/datasets/ghaithmechi/food-prices-for-nutrition) (44), and [monthly food-price inflation](https://www.kaggle.com/datasets/ghaithmechi/monthly-food-price-inflation-estimates-by-country) (29).
+## Tech Stack
 
-## Practice
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-| | |
-| --- | --- |
-| Vision | OpenCV, YOLOv8, OCR, PyTorch image models |
-| Language | Sentiment, stylometry, classical text features |
-| Learning | scikit-learn, supervised and unsupervised models, imbalanced classification |
-| Data | pandas, NumPy, collection, public dataset design |
-| Delivery | Flask, SQL, the MLOps path from notebook to production |
+![YOLOv8](https://img.shields.io/badge/YOLOv8-111111?style=for-the-badge)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## What I Build
+
+- **Vision pipelines**: face detection, OCR, and classical OpenCV
+- **Text models**: sentiment and stylometry
+- **Public datasets** and the scrapers that feed them
+- **Classical ML**, including imbalanced classification
+- **The path from a notebook toward production** (MLOps concepts)
+
+---
+
+## Featured Work
+
+### Optical character recognition
+- Recovered text from images, end to end in Python
+- Most-used notebook: **139 upvotes** · [open it](https://www.kaggle.com/code/ghaithmechi/optical-caracter-recognition-ocr)
+
+### Face detection with YOLOv8
+- A modern detector, trained and run on GPU, Apache 2.0
+- **93 upvotes** · [open it](https://www.kaggle.com/code/ghaithmechi/face-detection-using-yolov8)
+
+### Premier League statistics, 2015–2023
+- Scraped, cleaned, and published as a dataset
+- Notebook **82** upvotes, dataset **70** · [notebook](https://www.kaggle.com/code/ghaithmechi/premier-league-statistics-scraping) · [dataset](https://www.kaggle.com/datasets/ghaithmechi/premier-league-statistics-from-2015-to-2023)
+
+Also worth opening: [Amazon review sentiment](https://www.kaggle.com/code/ghaithmechi/sentiment-analysis-on-amazon-reviews) (68), [OpenCV](https://www.kaggle.com/code/ghaithmechi/image-processing-with-opencv-and-python) (73), [web scraping guide](https://www.kaggle.com/code/ghaithmechi/guide-to-learn-web-scrapping-with-python) (60), [PyTorch card classification](https://www.kaggle.com/code/ghaithmechi/card-classification-with-pytorch), and the 2026 [Name That LLM](https://www.kaggle.com/code/ghaithmechi/name-that-llm-enhanced-classical-pipeline-cpu) entry.
+
+---
+
+## Dashboard
+
+![Public record and skill levels](assets/dashboard.svg)
+
+Courses behind the DataCamp card: [Python Developer](https://www.linkedin.com/posts/ghaith-mechi_ghaith-mechis-statement-of-accomplishment-activity-7176562427159797761-wA8d) (March 2024), [Fraud Detection in Python](https://www.linkedin.com/posts/ghaith-mechi_ghaith-mechis-statement-of-accomplishment-activity-7087427432399462400-Nhtl) (July 2023), [MLOps Concepts](https://www.linkedin.com/posts/ghaith-mechi_ghaith-mechis-statement-of-accomplishment-activity-7105193472277557250-B31R) (September 2023).
+
+---
 
 ## Path
 
@@ -63,14 +84,6 @@ Also published, and worth opening after the table: [electric-vehicle population]
 | 2015–2017 | Classes préparatoires MP | IPEIS, Sfax |
 | 2014–2015 | Baccalauréat Mathématiques, Mention Bien | Lycée Cité Habib, Sfax |
 
-DataCamp, the courses with a public statement of accomplishment:
+---
 
-- [Python Developer](https://www.linkedin.com/posts/ghaith-mechi_ghaith-mechis-statement-of-accomplishment-activity-7176562427159797761-wA8d), March 2024. NumPy, pandas, Matplotlib, packages, object-oriented Python.
-- [Fraud Detection in Python](https://www.linkedin.com/posts/ghaith-mechi_ghaith-mechis-statement-of-accomplishment-activity-7087427432399462400-Nhtl), July 2023. Supervised and unsupervised detection, imbalanced classes, scikit-learn.
-- [MLOps Concepts](https://www.linkedin.com/posts/ghaith-mechi_ghaith-mechis-statement-of-accomplishment-activity-7105193472277557250-B31R), September 2023. Moving a model out of the notebook.
-
-The 2024 [Year in Data](https://www.linkedin.com/posts/ghaith-mechi_datacamp-myyearindata-continuouslearning-activity-7275883583251062784-EVF6) is the source for the top 1% and 81,990 XP.
-
-## Contact
-
-[ghaith.mechi@ept.ucar.tn](mailto:ghaith.mechi@ept.ucar.tn) · [Kaggle](https://www.kaggle.com/ghaithmechi) · [LinkedIn](https://www.linkedin.com/in/ghaith-mechi)
+[ghaith.mechi@ept.ucar.tn](mailto:ghaith.mechi@ept.ucar.tn) · [Kaggle](https://www.kaggle.com/ghaithmechi) · [LinkedIn](https://www.linkedin.com/in/ghaith-mechi) · [Medium](https://medium.com/@mechi.ghaith07)

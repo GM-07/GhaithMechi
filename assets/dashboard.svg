@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="548" viewBox="0 0 920 548" role="img" aria-label="Dashboard for Ghaith Mechi">
+  <rect width="920" height="548" rx="16" fill="#0C1424"/>
+
+  <rect x="16" y="16" width="288" height="132" rx="12" fill="#152238"/>
+  <rect x="316" y="16" width="288" height="132" rx="12" fill="#152238"/>
+  <rect x="616" y="16" width="288" height="132" rx="12" fill="#152238"/>
+
+  <text x="36" y="44" fill="#E6C07B" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="1.4">KAGGLE DATASETS</text>
+  <text x="36" y="80" fill="#F4F7FB" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="26" font-weight="700">Master</text>
+  <text x="36" y="106" fill="#F4F7FB" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15">Best rank 108</text>
+  <text x="36" y="128" fill="#93A4B8" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13">2 gold · 5 silver · 288 upvotes</text>
+
+  <text x="336" y="44" fill="#E6C07B" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="1.4">KAGGLE NOTEBOOKS</text>
+  <text x="336" y="80" fill="#F4F7FB" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="26" font-weight="700">Legacy Master</text>
+  <text x="336" y="106" fill="#F4F7FB" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15">882 upvotes · 556 forks</text>
+  <text x="336" y="128" fill="#93A4B8" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13">1 gold · 3 silver · 7 bronze</text>
+
+  <text x="636" y="44" fill="#3DDC97" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="1.4">DATACAMP 2024</text>
+  <text x="636" y="80" fill="#F4F7FB" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="26" font-weight="700">Top 1%</text>
+  <text x="636" y="106" fill="#F4F7FB" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15">81,990 XP</text>
+  <text x="636" y="128" fill="#93A4B8" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13">Longest streak · 8 days</text>
+
+  <text x="36" y="184" fill="#3DDC97" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="1.4">SKILL LEVELS</text>
+  <text x="700" y="184" fill="#93A4B8" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12">Advanced in green · Intermediate in amber</text>
+
+  <text x="36" y="220" fill="#F4F7FB" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14">Computer vision</text>
+  <rect x="230" y="208" width="520" height="10" rx="5" fill="#1C3148"/>
+  <rect x="230" y="208" width="478" height="10" rx="5" fill="#3DDC97"/>
+  <text x="884" y="218" text-anchor="end" fill="#3DDC97" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="700">Advanced</text>
+
+  <text x="36" y="254" fill="#F4F7FB" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14">Python</text>
+  <rect x="230" y="242" width="520" height="10" rx="5" fill="#1C3148"/>
+  <rect x="230" y="242" width="458" height="10" rx="5" fill="#3DDC97"/>
+  <text x="884" y="252" text-anchor="end" fill="#3DDC97" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="700">Advanced</text>
+
+  <text x="36" y="288" fill="#F4F7FB" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14">Supervised learning</text>
+  <rect x="230" y="276" width="520" height="10" rx="5" fill="#1C3148"/>
+  <rect x="230" y="276" width="437" height="10" rx="5" fill="#3DDC97"/>
+  <text x="884" y="286" text-anchor="end" fill="#3DDC97" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="700">Advanced</text>
+
+  <text x="36" y="322" fill="#F4F7FB" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14">Data collection</text>
+  <rect x="230" y="310" width="520" height="10" rx="5" fill="#1C3148"/>
+  <rect x="230" y="310" width="416" height="10" rx="5" fill="#3DDC97"/>
+  <text x="884" y="320" text-anchor="end" fill="#3DDC97" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="700">Advanced</text>
+
+  <text x="36" y="356" fill="#F4F7FB" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14">Deep learning</text>
+  <rect x="230" y="344" width="520" height="10" rx="5" fill="#1C3148"/>
+  <rect x="230" y="344" width="416" height="10" rx="5" fill="#3DDC97"/>
+  <text x="884" y="354" text-anchor="end" fill="#3DDC97" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="700">Advanced</text>
+
+  <text x="36" y="390" fill="#F4F7FB" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14">Natural language</text>
+  <rect x="230" y="378" width="520" height="10" rx="5" fill="#1C3148"/>
+  <rect x="230" y="378" width="385" height="10" rx="5" fill="#3DDC97"/>
+  <text x="884" y="388" text-anchor="end" fill="#3DDC97" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="700">Advanced</text>
+
+  <text x="36" y="424" fill="#F4F7FB" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14">Data manipulation</text>
+  <rect x="230" y="412" width="520" height="10" rx="5" fill="#1C3148"/>
+  <rect x="230" y="412" width="437" height="10" rx="5" fill="#3DDC97"/>
+  <text x="884" y="422" text-anchor="end" fill="#3DDC97" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="700">Advanced</text>
+
+  <text x="36" y="458" fill="#F4F7FB" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14">Visualization</text>
+  <rect x="230" y="446" width="520" height="10" rx="5" fill="#1C3148"/>
+  <rect x="230" y="446" width="333" height="10" rx="5" fill="#E6C07B"/>
+  <text x="884" y="456" text-anchor="end" fill="#E6C07B" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="700">Intermediate</text>
+
+  <text x="36" y="492" fill="#F4F7FB" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14">MLOps</text>
+  <rect x="230" y="480" width="520" height="10" rx="5" fill="#1C3148"/>
+  <rect x="230" y="480" width="312" height="10" rx="5" fill="#E6C07B"/>
+  <text x="884" y="490" text-anchor="end" fill="#E6C07B" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="700">Intermediate</text>
+
+  <text x="36" y="528" fill="#93A4B8" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12">October 2026 · Discussions Legacy Expert, once top 100, 343 posts</text>
+</svg>
