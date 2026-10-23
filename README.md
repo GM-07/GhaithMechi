@@ -10,7 +10,7 @@
 
 ## About Me
 
-**Data scientist, AI developer, and Kaggle competitor** since 2023. Based in Tunisia. I build in **computer vision, deep learning, and NLP**, plus the datasets behind that work.
+**Data scientist, AI developer, and Kaggle competitor** since 2023. Based in Tunisia. I build in **computer vision, deep learning, NLP, and LLMs**, plus the datasets behind that work.
 
 Public record:
 - **Kaggle Datasets Master**, best rank **108**
@@ -40,6 +40,7 @@ I work from collection through a model someone else can open: detection, OCR, se
 ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=for-the-badge)
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-EE4C2C?style=for-the-badge)
 ![NLP](https://img.shields.io/badge/NLP-1E88E5?style=for-the-badge)
+![LLMs](https://img.shields.io/badge/LLMs-6A1B9A?style=for-the-badge)
 
 ---
 
@@ -47,7 +48,8 @@ I work from collection through a model someone else can open: detection, OCR, se
 
 - **Computer vision**: face detection, OCR, and classical OpenCV
 - **Deep learning**: YOLOv8 detection and PyTorch image classification
-- **NLP**: sentiment on reviews and stylometry for text
+- **NLP**: sentiment on reviews
+- **LLMs**: tell model-written text apart with TF-IDF and stylometry
 - **Public datasets** and the scrapers that feed them
 - **Classical ML**, including imbalanced classification
 
@@ -75,8 +77,13 @@ I work from collection through a model someone else can open: detection, OCR, se
 | Project | What it shows |
 | --- | --- |
 | [Sentiment analysis on Amazon reviews](https://www.kaggle.com/code/ghaithmechi/sentiment-analysis-on-amazon-reviews) | Text classification on real customer reviews. **68 upvotes**. |
+
+### LLMs
+
+| Project | What it shows |
+| --- | --- |
 | [Name That LLM](https://www.kaggle.com/code/ghaithmechi/name-that-llm-enhanced-classical-pipeline-cpu) | 2026 competition entry: stylometry and classical text features, scored on CPU. |
-| [Name That LLM, TF-IDF and stylometry](https://www.kaggle.com/code/ghaithmechi/name-that-llm-multi-view-tf-idf-stylometry) | A second 2026 entry on the same competition. |
+| [Name That LLM, TF-IDF and stylometry](https://www.kaggle.com/code/ghaithmechi/name-that-llm-multi-view-tf-idf-stylometry) | A second 2026 entry, separating model-written text with TF-IDF and stylometry. |
 
 ### Data collection
 
