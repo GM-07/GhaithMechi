@@ -97,10 +97,10 @@ Also worth opening: [Amazon review sentiment](https://www.kaggle.com/code/ghaith
 | Years | Status | Place |
 | --- | --- | --- |
 | 2023–now | Data scientist, AI developer, Kaggle competitor | Tunis |
-| 2021–2022 | Master, Traitement des données | École Polytechnique de Tunisie |
-| 2017–2020 | Diplôme d'ingénieur, Génie industriel | École Nationale d'Ingénieurs de Tunis |
-| 2015–2017 | Classes préparatoires MP | IPEIS, Sfax |
-| 2014–2015 | Baccalauréat Mathématiques, Mention Bien | Lycée Cité Habib, Sfax |
+| 2021–2022 | Master's degree, Data processing | Tunisia Polytechnic School |
+| 2017–2020 | Engineering degree, Industrial engineering | National Engineering School of Tunis |
+| 2015–2017 | Preparatory classes, mathematics and physics | IPEIS, Sfax |
+| 2014–2015 | Mathematics baccalaureate, with honors | Cité Habib High School, Sfax |
 
 ---
 
