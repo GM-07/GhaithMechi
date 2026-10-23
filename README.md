@@ -49,7 +49,7 @@ I work from collection through a model someone else can open: detection, OCR, se
 - **Computer vision**: face detection, OCR, and classical OpenCV
 - **Deep learning**: YOLOv8 detection and PyTorch image classification
 - **NLP**: sentiment on reviews
-- **LLMs**: tell model-written text apart with TF-IDF and stylometry
+- **LLMs**: joined the Name That LLM competition and published classification notebooks that predict which model wrote a text
 - **Public datasets** and the scrapers that feed them
 - **Classical ML**, including imbalanced classification
 
@@ -82,8 +82,8 @@ I work from collection through a model someone else can open: detection, OCR, se
 
 | Project | What it shows |
 | --- | --- |
-| [Name That LLM](https://www.kaggle.com/code/ghaithmechi/name-that-llm-enhanced-classical-pipeline-cpu) | 2026 competition entry: stylometry and classical text features, scored on CPU. |
-| [Name That LLM, TF-IDF and stylometry](https://www.kaggle.com/code/ghaithmechi/name-that-llm-multi-view-tf-idf-stylometry) | A second 2026 entry, separating model-written text with TF-IDF and stylometry. |
+| [Name That LLM, classical pipeline](https://www.kaggle.com/code/ghaithmechi/name-that-llm-enhanced-classical-pipeline-cpu) | Public classification entry in the [Name That LLM](https://www.kaggle.com/competitions/name-that-llm) competition. CPU pipeline, public score **0.349**. |
+| [Name That LLM, TF-IDF and stylometry](https://www.kaggle.com/code/ghaithmechi/name-that-llm-multi-view-tf-idf-stylometry) | Second public classification entry: TF-IDF and stylometry to name the model that wrote the text. |
 
 ### Data collection
 

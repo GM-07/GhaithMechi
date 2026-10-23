@@ -83,5 +83,5 @@
   <rect x="230" y="582" width="333" height="10" rx="5" fill="#E6C07B"/>
   <text x="884" y="592" text-anchor="end" fill="#E6C07B" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="700">Intermediate</text>
 
-  <text x="36" y="630" fill="#93A4B8" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12">LLM level follows the 2026 Name That LLM notebooks: TF-IDF and stylometry. October 2026.</text>
+  <text x="36" y="630" fill="#93A4B8" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12">LLM level follows the Name That LLM classification notebooks. October 2026.</text>
 </svg>
