@@ -10,7 +10,7 @@
 
 ## About Me
 
-**Data scientist, AI developer, and Kaggle competitor** since 2023. Based in Tunis. I build **computer-vision pipelines, text models, and datasets other people run**.
+**Data scientist, AI developer, and Kaggle competitor** since 2023. Based in Tunis. I build in **computer vision, deep learning, and NLP**, plus the datasets behind that work.
 
 Public record:
 - **Kaggle Datasets Master**, best rank **108**
@@ -37,33 +37,47 @@ I work from collection through a model someone else can open: detection, OCR, se
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=for-the-badge)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-EE4C2C?style=for-the-badge)
+![NLP](https://img.shields.io/badge/NLP-1E88E5?style=for-the-badge)
+
 ---
 
 ## What I Build
 
-- **Vision pipelines**: face detection, OCR, and classical OpenCV
-- **Text models**: sentiment and stylometry
+- **Computer vision**: face detection, OCR, and classical OpenCV
+- **Deep learning**: YOLOv8 detection and PyTorch image classification
+- **NLP**: sentiment on reviews and stylometry for text
 - **Public datasets** and the scrapers that feed them
 - **Classical ML**, including imbalanced classification
-- **The path from a notebook toward production** (MLOps concepts)
 
 ---
 
-## Featured Work
+## Projects
 
-### Optical character recognition
-- Recovered text from images, end to end in Python
-- Most-used notebook: **139 upvotes** · [open it](https://www.kaggle.com/code/ghaithmechi/optical-caracter-recognition-ocr)
+### Computer vision
 
-### Face detection with YOLOv8
-- A modern detector, trained and run on GPU, Apache 2.0
-- **93 upvotes** · [open it](https://www.kaggle.com/code/ghaithmechi/face-detection-using-yolov8)
+| Project | What it shows |
+| --- | --- |
+| [Optical character recognition](https://www.kaggle.com/code/ghaithmechi/optical-caracter-recognition-ocr) | Text recovered from images, end to end in Python. **139 upvotes**, the most-used notebook. |
+| [Face detection with YOLOv8](https://www.kaggle.com/code/ghaithmechi/face-detection-using-yolov8) | Detection on GPU, Apache 2.0. **93 upvotes**. |
+| [Image processing with OpenCV](https://www.kaggle.com/code/ghaithmechi/image-processing-with-opencv-and-python) | Classical vision under the deep models. **73 upvotes**. |
 
-### Premier League statistics, 2015–2023
-- Scraped, cleaned, and published as a dataset
-- Notebook **82** upvotes, dataset **70** · [notebook](https://www.kaggle.com/code/ghaithmechi/premier-league-statistics-scraping) · [dataset](https://www.kaggle.com/datasets/ghaithmechi/premier-league-statistics-from-2015-to-2023)
+### Deep learning
 
-Also worth opening: [Amazon review sentiment](https://www.kaggle.com/code/ghaithmechi/sentiment-analysis-on-amazon-reviews) (68), [OpenCV](https://www.kaggle.com/code/ghaithmechi/image-processing-with-opencv-and-python) (73), [web scraping guide](https://www.kaggle.com/code/ghaithmechi/guide-to-learn-web-scrapping-with-python) (60), [PyTorch card classification](https://www.kaggle.com/code/ghaithmechi/card-classification-with-pytorch), and the 2026 [Name That LLM](https://www.kaggle.com/code/ghaithmechi/name-that-llm-enhanced-classical-pipeline-cpu) entry.
+| Project | What it shows |
+| --- | --- |
+| [Face detection with YOLOv8](https://www.kaggle.com/code/ghaithmechi/face-detection-using-yolov8) | A current detection model, trained and run on GPU. **93 upvotes**. |
+| [Card classification in PyTorch](https://www.kaggle.com/code/ghaithmechi/card-classification-with-pytorch) | Image classification with PyTorch. |
+
+### NLP
+
+| Project | What it shows |
+| --- | --- |
+| [Sentiment analysis on Amazon reviews](https://www.kaggle.com/code/ghaithmechi/sentiment-analysis-on-amazon-reviews) | Text classification on real customer reviews. **68 upvotes**. |
+| [Name That LLM](https://www.kaggle.com/code/ghaithmechi/name-that-llm-enhanced-classical-pipeline-cpu) | 2026 competition entry: stylometry and classical text features, scored on CPU. |
+
+Data work still on the profile: [Premier League statistics, 2015–2023](https://www.kaggle.com/datasets/ghaithmechi/premier-league-statistics-from-2015-to-2023) and its [scraper](https://www.kaggle.com/code/ghaithmechi/premier-league-statistics-scraping).
 
 ---
 
