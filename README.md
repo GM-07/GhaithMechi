@@ -76,8 +76,40 @@ I work from collection through a model someone else can open: detection, OCR, se
 | --- | --- |
 | [Sentiment analysis on Amazon reviews](https://www.kaggle.com/code/ghaithmechi/sentiment-analysis-on-amazon-reviews) | Text classification on real customer reviews. **68 upvotes**. |
 | [Name That LLM](https://www.kaggle.com/code/ghaithmechi/name-that-llm-enhanced-classical-pipeline-cpu) | 2026 competition entry: stylometry and classical text features, scored on CPU. |
+| [Name That LLM, TF-IDF and stylometry](https://www.kaggle.com/code/ghaithmechi/name-that-llm-multi-view-tf-idf-stylometry) | A second 2026 entry on the same competition. |
 
-Data work still on the profile: [Premier League statistics, 2015–2023](https://www.kaggle.com/datasets/ghaithmechi/premier-league-statistics-from-2015-to-2023) and its [scraper](https://www.kaggle.com/code/ghaithmechi/premier-league-statistics-scraping).
+### Data collection
+
+| Project | What it shows |
+| --- | --- |
+| [Premier League statistics scraping](https://www.kaggle.com/code/ghaithmechi/premier-league-statistics-scraping) | Match data collected and cleaned. **82 upvotes**. |
+| [Web scraping with Python](https://www.kaggle.com/code/ghaithmechi/guide-to-learn-web-scrapping-with-python) | A guide other people run. **60 upvotes**. |
+| [Scraping data](https://www.kaggle.com/code/ghaithmechi/scraping-data) | Another collection notebook. **58 upvotes**. |
+| [Match score scraping](https://www.kaggle.com/code/ghaithmechi/matches-score-scrapping) | Scores pulled from the web. **65 upvotes**. |
+
+### Machine learning
+
+| Project | What it shows |
+| --- | --- |
+| [Classification with scikit-learn](https://www.kaggle.com/code/ghaithmechi/classification-with-scikit-learn) | Classical classification. **52 upvotes**. |
+| [Exploratory data analysis](https://www.kaggle.com/code/ghaithmechi/exploratory-data-analysis-eda) | EDA before modeling. **64 upvotes**. |
+| [Pandas data analysis](https://www.kaggle.com/code/ghaithmechi/pandas-data-analysis) | Tabular analysis in pandas. **67 upvotes**. |
+| [PyTorch workflow](https://www.kaggle.com/code/ghaithmechi/pytorch-workflow) | A PyTorch training workflow. |
+| [Image manipulation with Python](https://www.kaggle.com/code/ghaithmechi/image-manipulation-with-python) | Pixel-level image work. |
+
+### Datasets
+
+| Dataset | Upvotes |
+| --- | --- |
+| [Premier League statistics, 2015–2023](https://www.kaggle.com/datasets/ghaithmechi/premier-league-statistics-from-2015-to-2023) | 70 |
+| [Electric vehicle population, March 2024](https://www.kaggle.com/datasets/ghaithmechi/electric-vehicle-population-data-march-2024) | 45 |
+| [Food prices for nutrition](https://www.kaggle.com/datasets/ghaithmechi/food-prices-for-nutrition) | 44 |
+| [Smoking status by race](https://www.kaggle.com/datasets/ghaithmechi/smoking-status-by-race) | 44 |
+| [Telecom churn](https://www.kaggle.com/datasets/ghaithmechi/telecom-churn) | 37 |
+| [Monthly food-price inflation](https://www.kaggle.com/datasets/ghaithmechi/monthly-food-price-inflation-estimates-by-country) | 29 |
+| [Motor vehicle collisions](https://www.kaggle.com/datasets/ghaithmechi/motor-vehicle-collisions-crashes) | 18 |
+
+The full set is on the [Kaggle profile](https://www.kaggle.com/ghaithmechi).
 
 ---
 
