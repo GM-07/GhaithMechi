@@ -10,7 +10,7 @@
 
 ## About Me
 
-Data scientist and AI developer in Tunis. I build **computer-vision pipelines, text models, and datasets other people run**.
+**Data scientist, AI developer, and Kaggle competitor** since 2023. Based in Tunis. I build **computer-vision pipelines, text models, and datasets other people run**.
 
 Public record:
 - **Kaggle Datasets Master**, best rank **108**
@@ -94,8 +94,9 @@ Also worth opening: [Amazon review sentiment](https://www.kaggle.com/code/ghaith
 
 ## Path
 
-| Years | Credential | Place |
+| Years | Status | Place |
 | --- | --- | --- |
+| 2023–now | Data scientist, AI developer, Kaggle competitor | Tunis |
 | 2021–2022 | Master, Traitement des données | École Polytechnique de Tunisie |
 | 2017–2020 | Diplôme d'ingénieur, Génie industriel | École Nationale d'Ingénieurs de Tunis |
 | 2015–2017 | Classes préparatoires MP | IPEIS, Sfax |
