@@ -20,8 +20,8 @@
   <text x="636" y="106" fill="#F4F7FB" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15">81,990 XP</text>
   <text x="636" y="128" fill="#93A4B8" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13">Longest streak · 8 days</text>
 
-  <text x="36" y="184" fill="#3DDC97" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="1.4">SKILL LEVELS</text>
-  <text x="700" y="184" fill="#93A4B8" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12">Advanced in green · Intermediate in amber</text>
+  <text x="36" y="184" fill="#3DDC97" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="1.4">PORTFOLIO READING</text>
+  <text x="620" y="184" fill="#93A4B8" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12">Not a certified score · green stronger</text>
 
   <text x="36" y="220" fill="#F4F7FB" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14">Computer vision</text>
   <rect x="230" y="208" width="520" height="10" rx="5" fill="#1C3148"/>
@@ -83,5 +83,5 @@
   <rect x="230" y="582" width="333" height="10" rx="5" fill="#E6C07B"/>
   <text x="884" y="592" text-anchor="end" fill="#E6C07B" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="700">Intermediate</text>
 
-  <text x="36" y="630" fill="#93A4B8" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12">LLM level follows the Name That LLM classification notebooks. October 2026.</text>
+  <text x="36" y="630" fill="#93A4B8" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12">Bars are a reading of public work, not a certified score. October 2026.</text>
 </svg>
