@@ -10,7 +10,7 @@
 
 ## About Me
 
-**Data scientist, AI developer, and Kaggle competitor** since 2023. Based in Tunis. I build in **computer vision, deep learning, and NLP**, plus the datasets behind that work.
+**Data scientist, AI developer, and Kaggle competitor** since 2023. Based in Tunisia. I build in **computer vision, deep learning, and NLP**, plus the datasets behind that work.
 
 Public record:
 - **Kaggle Datasets Master**, best rank **108**
@@ -150,7 +150,7 @@ The full set is on the [Kaggle profile](https://www.kaggle.com/ghaithmechi).
 
 | Years | Status | Place |
 | --- | --- | --- |
-| 2023–now | Data scientist, AI developer, Kaggle competitor | Tunis |
+| 2023–now | Data scientist, AI developer, Kaggle competitor | Tunisia |
 | 2021–2022 | Master's degree, Data processing | Tunisia Polytechnic School |
 | 2017–2020 | Engineering degree, Industrial engineering | National Engineering School of Tunis |
 | 2015–2017 | Preparatory classes, mathematics and physics | IPEIS, Sfax |
